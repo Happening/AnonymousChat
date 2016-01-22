@@ -1,5 +1,5 @@
 name: Anonymous chat
 description: Anonymous messaging, for gossip and giggles.
 icon: comedy
-api: 2
+api: 3
 store: 750
